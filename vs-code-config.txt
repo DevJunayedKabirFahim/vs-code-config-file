@@ -1,0 +1,34 @@
+{
+    "editor.fontSize": 20,
+    "editor.fontFamily": "Operator Mono Lig, Consolas, 'Courier New', monospace",
+    "editor.cursorBlinking": "expand",
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.fontLigatures": true,
+    "editor.wordWrap": "on",
+  "editor.minimap.enabled": false,
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": "comment",
+        "settings": {
+          "fontStyle": "italic"
+        }
+      }
+    ]
+  },
+
+//   "workbench.colorTheme": "Community Material Theme Darker High Contrast",
+"workbench.iconTheme": "material-icon-theme",
+"bracket-pair-colorizer-2.depreciation-notice": false,
+"editor.suggestSelection": "first",
+"vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+"workbench.colorTheme": "Learn with Sumit Theme",
+"editor.defaultFormatter": "esbenp.prettier-vscode",
+"code-runner.runInTerminal": true,
+"workbench.startupEditor": "none",
+"files.autoSave": "afterDelay",
+"[python]": {
+  "editor.defaultFormatter": "ms-python.python"
+}
+
+}
